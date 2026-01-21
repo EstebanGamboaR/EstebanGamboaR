@@ -80,7 +80,7 @@ My journey involves creating dynamic web applications (Full Stack) and optimizin
 
 <br>
 
-### 📊 GitHub Stats (Gengar Mode)
+### 📊 GitHub Stats 
 
 <div align="center">
 
@@ -98,5 +98,5 @@ My journey involves creating dynamic web applications (Full Stack) and optimizin
 
 <div align="center">
   <img src="https://media.tenor.com/fkH3KzG_sQ4AAAAi/gengar-pokemon.gif" width="50px">
-  <p><i>"Shadows and Code."</i><br>Thanks for visiting my profile!</p>
+  <p><i>"I love code."</i><br>Thanks for visiting my profile!</p>
 </div>
