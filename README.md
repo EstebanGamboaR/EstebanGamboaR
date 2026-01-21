@@ -75,8 +75,8 @@ My journey involves creating dynamic web applications (Full Stack) and optimizin
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
 | **[🏥 MedAgenda-CR](https://github.com/EstebanGamboaR/MedAgenda-CR)** | **Full Stack Medical System.** Manages appointments with intelligent Triage, patient records, and real-time dashboard. Optimized for **XAMPP**. | ![PHP](https://img.shields.io/badge/PHP-Purp?style=flat-square&color=800080) ![MySQL](https://img.shields.io/badge/MySQL-Purp?style=flat-square&color=4B0082) |
-| **[🌲 Good Wood System](https://github.com/EstebanGamboaR/Sistema-Facturacion-Java)** | **Java Desktop App.** Inventory and billing management for carpentry services using **OOP**, MVC architecture, and Swing. | ![Java](https://img.shields.io/badge/Java-Purp?style=flat-square&color=800080) ![POO](https://img.shields.io/badge/POO-Purp?style=flat-square&color=4B0082) |
-| **[🍥 Ninja Academy](https://github.com/EstebanGamboaR/Academia-Ninja-Web)** | **Interactive Web App.** A Naruto-themed task manager using **LocalStorage**, DOM Manipulation, and advanced CSS animations. | ![JS](https://img.shields.io/badge/JS-Purp?style=flat-square&color=800080) ![CSS](https://img.shields.io/badge/CSS-Purp?style=flat-square&color=4B0082) |
+| **[🌲 Good Wood System](https://github.com/EstebanGamboaR/Sistema-De-Gestion)** | **Java Desktop App.** Inventory and billing management for carpentry services using **OOP**, MVC architecture, and Swing. | ![Java](https://img.shields.io/badge/Java-Purp?style=flat-square&color=800080) ![POO](https://img.shields.io/badge/POO-Purp?style=flat-square&color=4B0082) |
+| **[🍥 Ninja Academy](https://github.com/EstebanGamboaR/Web-App)** | **Interactive Web App.** A Naruto-themed task manager using **LocalStorage**, DOM Manipulation, and advanced CSS animations. | ![JS](https://img.shields.io/badge/JS-Purp?style=flat-square&color=800080) ![CSS](https://img.shields.io/badge/CSS-Purp?style=flat-square&color=4B0082) |
 
 <br>
 
