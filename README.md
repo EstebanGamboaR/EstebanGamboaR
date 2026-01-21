@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/1000x300/2e004f/ffffff?text=ESTEBAN+GAMBOA+%7C+Software+Engineer" alt="Esteban Gamboa Banner" width="100%">
+  <img src="banner.jpg" alt="Esteban Gamboa Banner" width="100%">
   
   <br><br>
 
