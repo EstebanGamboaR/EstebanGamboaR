@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="banner.jpg" alt="Esteban Gamboa Banner" width="100%">
+  <img src="BANNER.jpg" alt="Esteban Gamboa Banner" width="100%">
   
   <br><br>
 
