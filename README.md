@@ -9,11 +9,11 @@
   <h1 align="center">Hi there! I'm <a href="https://www.linkedin.com/in/esteban-g-roman" target="_blank">Esteban Gamboa</a></h1>
 
   <h3 align="center">
-    👾 Software Engineer Student | Full Stack Developer | Linux Enthusiast
+    👾 Software Engineering Student | Full Stack Developer | Linux Enthusiast
   </h3>
 
   <p align="center">
-    Based in <strong>Costa Rica</strong> 🇨🇷 | Building scalable solutions with <strong>LAMP Stack & Java</strong>
+    Based in <strong>Costa Rica</strong> 🇨🇷 | Building scalable solutions with <strong>Java · PHP · MySQL · LAMP Stack</strong>
   </p>
 
   <p align="center">
@@ -22,6 +22,9 @@
     </a>
     <a href="mailto:estebangamboauni@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://github.com/EstebanGamboaR?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Repos-Ver_Proyectos-6C63FF?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </p>
 
@@ -33,18 +36,19 @@
 
 ### 👻 About Me
 
-I am an advanced **Software Engineering student** at **Universidad Fidélitas** (Class of 2027), passionate about backend logic, server infrastructure, and clean architecture. 
+I am an advanced **Software Engineering student** at **Universidad Fidélitas** (Class of 2027), passionate about backend logic, clean architecture, and building real-world systems from scratch.
 
-My journey involves creating dynamic web applications (Full Stack) and optimizing server environments using **Linux (Ubuntu)**. I treat bugs like ghosts... I hunt them down until the code is clean. 🟣
+My work spans Full Stack web applications (PHP + MySQL + JS), Java desktop systems with custom data structures, and server infrastructure on Linux. I treat bugs like ghosts... I hunt them down until the code is clean. 🟣
 
-* 🔭 I’m currently working on **Medical Management Systems with PHP & MySQL**.
-* 🌱 I’m currently learning **Advanced Java (Spring)** and **English (B2 Level)**.
-* 🐧 I love **Linux**, Virtualization, and configuring secure Web Servers (Apache/UFW).
-* ⚡ **Soft Skills:** Problem-solving, Agile adaptation, and Autodidactic learning.
+- 🔭 Currently working on **Sistema de Eventos Deportivos** — data structures in Java (linked lists, stacks, queues)
+- 🌱 Learning **Spring Framework** (Advanced Java) and deepening **English (B2)**
+- 🐧 Passionate about **Linux**, server configuration (Apache/UFW) and virtualization
+- 🎓 **Certified:** Scrum Fundamentals Certified (SFC) — SCRUMstudy #1155548
+- ⚡ **Soft Skills:** Problem-solving, Agile adaptation, autodidactic learning
 
 <br>
 
-### 🔮 Tech Stack & Spells
+### 🔮 Tech Stack
 
 <div align="center">
 
@@ -63,20 +67,23 @@ My journey involves creating dynamic web applications (Full Stack) and optimizin
 <br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=10002b">
-<img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=240046">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&color=3c096c">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&color=240046">
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=3c096c">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&color=5a189a">
 
 </div>
 
 <br>
 
-### 🧪 Featured Projects (My Laboratory)
+### 🧪 Featured Projects
 
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
-| **[🏥 MedAgenda-CR](https://github.com/EstebanGamboaR/MedAgenda-CR)** | **Full Stack Medical System.** Manages appointments with intelligent Triage, patient records, and real-time dashboard. Optimized for **XAMPP**. | ![PHP](https://img.shields.io/badge/PHP-Purp?style=flat-square&color=800080) ![MySQL](https://img.shields.io/badge/MySQL-Purp?style=flat-square&color=4B0082) |
-| **[🌲 Good Wood System](https://github.com/EstebanGamboaR/Sistema-De-Gestion)** | **Java Desktop App.** Inventory and billing management for carpentry services using **OOP**, MVC architecture, and Swing. | ![Java](https://img.shields.io/badge/Java-Purp?style=flat-square&color=800080) ![POO](https://img.shields.io/badge/POO-Purp?style=flat-square&color=4B0082) |
-| **[🍥 Ninja Academy](https://github.com/EstebanGamboaR/Web-App)** | **Interactive Web App.** A Naruto-themed task manager using **LocalStorage**, DOM Manipulation, and advanced CSS animations. | ![JS](https://img.shields.io/badge/JS-Purp?style=flat-square&color=800080) ![CSS](https://img.shields.io/badge/CSS-Purp?style=flat-square&color=4B0082) |
+| **[🏥 MedAgenda-CR](https://github.com/EstebanGamboaR/MedAgenda-CR)** | **Full Stack Medical System.** Manages appointments with intelligent Triage, admin dashboard, MySQL Stored Procedures & Triggers for auditing. MVC REST API in native PHP. | ![PHP](https://img.shields.io/badge/PHP-Purp?style=flat-square&color=800080) ![MySQL](https://img.shields.io/badge/MySQL-Purp?style=flat-square&color=4B0082) |
+| **[🏆 Sports Event Manager](https://github.com/EstebanGamboaR/Sistema-Eventos-Deportivos)** | **Java Desktop App.** Full sports event management system built on custom data structures: linked lists, stacks (LIFO) and queues (FIFO) — all implemented from scratch without Java collections. | ![Java](https://img.shields.io/badge/Java-Purp?style=flat-square&color=800080) ![Swing](https://img.shields.io/badge/Swing-Purp?style=flat-square&color=4B0082) |
+| **[❓ Questions & Powers](https://github.com/EstebanGamboaR/questions-and-powers)** | **Java Trivia Game.** Quiz game with MySQL auth (stored procedures), Atbash cipher encryption built from scratch, real-time countdown timer, and a strategic power system (Shield / The Jester). | ![Java](https://img.shields.io/badge/Java-Purp?style=flat-square&color=800080) ![MySQL](https://img.shields.io/badge/MySQL-Purp?style=flat-square&color=4B0082) |
+| **[🌲 Good Wood System](https://github.com/EstebanGamboaR/Sistema-De-Gestion)** | **Java Desktop App.** Inventory and billing management for carpentry services using OOP with layered architecture (Gestores/Models). No external libraries. | ![Java](https://img.shields.io/badge/Java-Purp?style=flat-square&color=800080) ![POO](https://img.shields.io/badge/POO-Purp?style=flat-square&color=4B0082) |
+| **[🍥 Ninja Academy](https://github.com/EstebanGamboaR/Web-App)** | **Interactive Web App.** Naruto-themed mission board with CRUD, LocalStorage persistence, dynamic validations, and advanced CSS animations. | ![JS](https://img.shields.io/badge/JS-Purp?style=flat-square&color=800080) ![CSS](https://img.shields.io/badge/CSS-Purp?style=flat-square&color=4B0082) |
 
 <br>
 
@@ -98,5 +105,5 @@ My journey involves creating dynamic web applications (Full Stack) and optimizin
 
 <div align="center">
   <img src="https://media.tenor.com/fkH3KzG_sQ4AAAAi/gengar-pokemon.gif" width="50px">
-  <p><i>"I love code."</i><br>Thanks for visiting my profile!</p>
+  <p><i>"Code is the closest thing we have to magic."</i><br>Thanks for visiting my profile!</p>
 </div>
